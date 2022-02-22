@@ -76,7 +76,7 @@ const Signin: NextPage = () => {
                 router.push("/credential/newuser");
               }}
             >
-              click here to login
+              click here to signup
             </span>
           </p>
         </form>

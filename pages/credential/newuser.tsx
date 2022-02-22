@@ -22,7 +22,7 @@ const NewUser: NextPage = () => {
           <h1 className="text-4xl xl:text-6xl pt-4 xl:pt-0 font-bold  leading-tight">
             Learn to code by watching others
           </h1>
-          <p className="min-w-[320px]  mb-4 xl:mb-0 mx-auto w-11/12 xl:max-w-[40rem] mt-4 xl:text-xl">
+          <p className="min-w-[320px]  mb-4 xl:mb-0 mx-auto xl:mx-0 w-11/12 xl:max-w-[40rem] mt-4 xl:text-xl">
             See how experieced developers solve problems in real-time. Watching
             scripted tutorials is great, but understanding how developers think
             is invaluable
